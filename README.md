@@ -1,4 +1,4 @@
-#Dungeon Generator
+# Dungeon Generator
 This program generates a grid of tiles which may be either walls or floors. It iterates over them using a [cellular automaton][1] algorithm and then floods the cave to only allow contiguity. Here's an example output:
 ```
 ############################################################
